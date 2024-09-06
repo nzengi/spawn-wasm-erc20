@@ -9,7 +9,7 @@ repository = "https://github.com/nzengi/spawn-wasm-erc20"
 homepage = "https://github.com/nzengi/spawn-wasm-erc20"
 readme = "README.md"
 keywords = ["WASM", "ERC20", "blockchain", "WebAssembly", "Rust"]
-categories = ["cryptography", "web-programming", "blockchain"]
+categories = ["cryptography", "web-programming"]
 
 
 [lib]
